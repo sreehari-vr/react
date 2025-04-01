@@ -1,0 +1,27 @@
+  .counter-container{
+    text-align: center;
+  }
+  .profile-card {
+    background: rgb(55, 157, 192);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .profile-card h1 {
+    font-size: 40px;
+    color: #ffffff;
+  }
+  
+  .profile-card p {
+    font-size: 16px;
+    color: #000000;
+  }
+  .btn{
+    width: 500px;
+  }
+  .bottom{
+    justify-content: center;
+    text-align: center;
+  }
